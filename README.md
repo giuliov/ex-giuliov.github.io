@@ -6,4 +6,7 @@ Technical notes on miscellaneous subjects
 
 [Parser](./parsers)
 
-https://github.com/thangchung/awesome-dotnet-core
+<https://github.com/thangchung/awesome-dotnet-core>
+
+<https://github.com/datasets/awesome-data>
+
